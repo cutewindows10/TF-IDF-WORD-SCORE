@@ -3,4 +3,4 @@ MADE FOR FUN
 
 
 
-<img src="preview.png" width="200"/>
+<img src="img.png" width="200"/>
